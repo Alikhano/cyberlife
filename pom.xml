@@ -16,7 +16,7 @@
 		<m2e.apt.activation>jdt_apt</m2e.apt.activation>
 		<spring>5.2.3.RELEASE</spring>
 		<spring-ampq>2.2.2.RELEASE</spring-ampq>
-		<spring-security>5.2.1.RELEASE</spring-security>
+		<spring-security>5.5.7</spring-security>
 		<mapstruct>1.3.0.Final</mapstruct>
 		<selenium>3.141.59</selenium>
 		<lombok>1.18.10</lombok>
